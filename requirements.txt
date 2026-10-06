@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+pwdlib[argon2]
+PyJWT
+cryptography
+httpx
+pytest
